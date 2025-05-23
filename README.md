@@ -58,20 +58,22 @@ Sou desenvolvedor, apaixonado por tecnologia, música, jogos e gatos. Gosto de e
 <tr><th>Linguagem</th><th>Repositórios</th><th>Commits</th></tr>
 </thead>
 <tbody>
+<tr><td>Pascal</td><td>32</td><td>133</td></tr>
 <tr><td>PLSQL</td><td>1</td><td>91</td></tr>
-<tr><td>Pascal</td><td>4</td><td>64</td></tr>
 <tr><td>PHP</td><td>1</td><td>59</td></tr>
 <tr><td>HTML</td><td>1</td><td>55</td></tr>
-<tr><td>JavaScript</td><td>2</td><td>17</td></tr>
-<tr><td>Java</td><td>1</td><td>12</td></tr>
+<tr><td>JavaScript</td><td>3</td><td>20</td></tr>
+<tr><td>Java</td><td>4</td><td>19</td></tr>
+<tr><td>Python</td><td>1</td><td>5</td></tr>
+<tr><td>Unknown</td><td>2</td><td>2</td></tr>
 </tbody>
 </table>
 </div>
 </div>
 </div>
 
-- **Total de commits (últimos 12 meses):** 732
-- **Repositórios contribuídos:** 10
+- **Total de commits (últimos 12 meses):** 734
+- **Repositórios contribuídos:** 45
 
 <!--END_GITHUB_STATS-->
 
