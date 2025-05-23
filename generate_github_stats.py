@@ -15,7 +15,7 @@ query($username: String!) {
       contributionCalendar {
         totalContributions
       }
-      commitContributionsByRepository(maxRepositories: 10) {
+      commitContributionsByRepository(maxRepositories: 100) {
         repository {
           nameWithOwner
           url
