@@ -28,6 +28,9 @@ Sou desenvolvedor, apaixonado por tecnologia, música, jogos e gatos. Gosto de e
   </picture>
 </div>
 
+<!--START_GITHUB_STATS-->
+<!--END_GITHUB_STATS-->
+
 ---
 
 #### 🛠️ Tecnologias que uso
@@ -48,7 +51,6 @@ Sou desenvolvedor, apaixonado por tecnologia, música, jogos e gatos. Gosto de e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin: 0 10px;" />
 </div>
-
 
 ---
 
