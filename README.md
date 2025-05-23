@@ -29,6 +29,50 @@ Sou desenvolvedor, apaixonado por tecnologia, música, jogos e gatos. Gosto de e
 </div>
 
 <!--START_GITHUB_STATS-->
+<div align="center">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+<div>
+<h3>Repositórios mais contribuídos:</h3>
+<table>
+<thead>
+<tr><th>Repositório</th><th>Commits</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://github.com/solussaude/banco">solussaude/banco</a></td><td>91</td></tr>
+<tr><td><a href="https://github.com/solussaude/solusweb">solussaude/solusweb</a></td><td>59</td></tr>
+<tr><td><a href="https://github.com/thomassolcia/cinemance">thomassolcia/cinemance</a></td><td>55</td></tr>
+<tr><td><a href="https://github.com/solussaude/contas">solussaude/contas</a></td><td>20</td></tr>
+<tr><td><a href="https://github.com/solussaude/guias">solussaude/guias</a></td><td>18</td></tr>
+<tr><td><a href="https://github.com/solussaude/crm">solussaude/crm</a></td><td>18</td></tr>
+<tr><td><a href="https://github.com/solussaude/TestesIntegracao">solussaude/TestesIntegracao</a></td><td>12</td></tr>
+<tr><td><a href="https://github.com/thomassolcia/gamersclub-enhancer">thomassolcia/gamersclub-enhancer</a></td><td>11</td></tr>
+<tr><td><a href="https://github.com/solussaude/auditoria">solussaude/auditoria</a></td><td>8</td></tr>
+<tr><td><a href="https://github.com/thomassolcia/awo.dev">thomassolcia/awo.dev</a></td><td>6</td></tr>
+</tbody>
+</table>
+</div>
+<div>
+<h3>Linguagens mais usadas:</h3>
+<table>
+<thead>
+<tr><th>Linguagem</th><th>Repositórios</th><th>Commits</th></tr>
+</thead>
+<tbody>
+<tr><td>PLSQL</td><td>1</td><td>91</td></tr>
+<tr><td>Pascal</td><td>4</td><td>64</td></tr>
+<tr><td>PHP</td><td>1</td><td>59</td></tr>
+<tr><td>HTML</td><td>1</td><td>55</td></tr>
+<tr><td>JavaScript</td><td>2</td><td>17</td></tr>
+<tr><td>Java</td><td>1</td><td>12</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+- **Total de commits (últimos 12 meses):** 732
+- **Repositórios contribuídos:** 10
+
 <!--END_GITHUB_STATS-->
 
 ---
