@@ -6,9 +6,9 @@
 
 Sou desenvolvedor, apaixonado por tecnologia, música, jogos e gatos. Gosto de explorar soluções criativas, com foco em web, automações e bots. Atuo também no desenvolvimento de extensões para navegador. Além disso, no tempo livre, faço lives na Twitch jogando alguma coisa.
 
-- 🌐 Links: [awo.dev](https://awo.dev)
+- 🌐 Links: [awoone.live](https://awoone.live)
 - 🕹️ Streamer na Twitch: [twitch.tv/awoone](https://twitch.tv/awoone)
-- 🎥 Meu projeto de cinema: [cinemance.com](https://cinemance.com)
+- 🎥 Meu projeto de cinema: [cinemance.com](https://cinemance.discloud.app/)
 - 🎹 Meu projeto musical: [Thomas Solcia](https://open.spotify.com/intl-pt/artist/2gtJYSZI5eXOsVPMnBsV62?si=EGoyRQysTzKPNd4-ns3eVQ)
 - 🎶 Spotify: [Playlists](https://open.spotify.com/user/thomassolcia?si=27b1930ce883465e)
 
