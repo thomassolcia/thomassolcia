@@ -21,9 +21,13 @@
   <img src="https://raw.githubusercontent.com/thomassolcia/thomassolcia/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuições em 3D" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thomassolcia/thomassolcia/main/trophy/profile-trophy.svg" alt="trophies" />
+</div>
+
 #### 💻 Sobre mim
 
-Sou desenvolvedor apaixonado por **tecnologia**, **música**, **jogos** e **gatos**. Gosto de explorar soluções criativas com foco em **web**, **automações** e **bots**, além de **extensões para navegador**. No tempo livre, faço lives na Twitch.
+Sou desenvolvedor apaixonado por **tecnologia**, **música**, **jogos** e **gatos**. Gosto de explorar soluções criativas com foco em **web**, **automações** e **bots**. No tempo livre, faço lives na Twitch.
 
 - 🌐 Portfólio: [awoone.live](https://awoone.live)
 - 🎥 Cinema: [cinemance.com.br](https://cinemance.com.br)
@@ -31,94 +35,38 @@ Sou desenvolvedor apaixonado por **tecnologia**, **música**, **jogos** e **gato
 
 #### 🛠️ Stack
 
-<table align="center">
-  <tr>
-    <td align="right"><strong>Linguagens</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" style="margin: 0 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" style="margin: 0 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" style="margin: 0 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" style="margin: 0 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" style="margin: 0 8px;" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" style="margin: 0 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" style="margin: 0 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" style="margin: 0 8px;" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><strong>Backend</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" style="margin: 0 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="36" alt="PL/SQL" style="margin: 0 8px;" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><strong>DevOps & Tools</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" style="margin: 0 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" style="margin: 0 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" style="margin: 0 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VSCode" style="margin: 0 8px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=777BB4" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" />
+  <img src="https://custom-icon-badges.demolab.com/badge/oracle-1a1a1a?style=for-the-badge&logo=oracle&logoColor=F80000" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=ffffff" />
+</p>
 
 #### 📊 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thomassolcia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9146FF&icon_color=9146FF&text_color=c9d1d9&ring_color=9146FF" />
-  <img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=thomassolcia&hide_border=true&background=0d1117&stroke=9146FF&ring=9146FF&fire=9146FF&currStreakNum=c9d1d9&currStreakLabel=9146FF&sideNums=c9d1d9&sideLabels=9146FF&dates=c9d1d9&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/thomassolcia/thomassolcia/main/profile-summary-card-output/radical/profile-details.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/thomassolcia/thomassolcia/main/profile-summary-card-output/radical/productive-time.svg" />
+  </a>
 </div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thomassolcia/thomassolcia/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thomassolcia/thomassolcia/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/thomassolcia/thomassolcia/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-#### 📈 Atividade
-
-<!-- README-STATS:START -->
-
-```
-🕰️ I get my jam on during the night!
-
-🌞 Morning  	112    commits	█████████████████░░░░░░░░░░░░░	19.28%
-🌆 Daytime  	95     commits	██████████████░░░░░░░░░░░░░░░░	16.35%
-🌃 Evening  	180    commits	███████████████████████████░░░	30.98%
-🌙 Night    	194    commits	██████████████████████████████	33.39%
-```
-
-```
-📅 I'm most productive on Thursdays!
-
-Monday      	56     commits	██████████████░░░░░░░░░░░░░░░░	9.64%
-Tuesday     	106    commits	██████████████████████████░░░░	18.24%
-Wednesday   	104    commits	██████████████████████████░░░░	17.90%
-Thursday    	120    commits	██████████████████████████████	20.65%
-Friday      	82     commits	████████████████████░░░░░░░░░░	14.11%
-Saturday    	66     commits	████████████████░░░░░░░░░░░░░░	11.36%
-Sunday      	47     commits	███████████░░░░░░░░░░░░░░░░░░░	8.09%
-```
-
-```
-🧪 JavaScript for the win!
-
-JavaScript  	18     repos	██████████████████████████████	46.15%
-CSS         	6      repos	█████████░░░░░░░░░░░░░░░░░░░░░	15.38%
-HTML        	6      repos	█████████░░░░░░░░░░░░░░░░░░░░░	15.38%
-Python      	4      repos	██████░░░░░░░░░░░░░░░░░░░░░░░░	10.26%
-Shell       	2      repos	███░░░░░░░░░░░░░░░░░░░░░░░░░░░	5.13%
-```
-
-<!-- README-STATS:END -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thomassolcia&label=Visitas&color=9146FF&style=flat" alt="profile views" />
