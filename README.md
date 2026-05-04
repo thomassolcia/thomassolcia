@@ -86,6 +86,38 @@ Sou desenvolvedor apaixonado por **tecnologia**, **música**, **jogos** e **gato
 #### 📈 Atividade
 
 <!-- README-STATS:START -->
+
+```
+🕰️ I get my jam on during the night!
+
+🌞 Morning  	112    commits	█████████████████░░░░░░░░░░░░░	19.28%
+🌆 Daytime  	95     commits	██████████████░░░░░░░░░░░░░░░░	16.35%
+🌃 Evening  	180    commits	███████████████████████████░░░	30.98%
+🌙 Night    	194    commits	██████████████████████████████	33.39%
+```
+
+```
+📅 I'm most productive on Thursdays!
+
+Monday      	56     commits	██████████████░░░░░░░░░░░░░░░░	9.64%
+Tuesday     	106    commits	██████████████████████████░░░░	18.24%
+Wednesday   	104    commits	██████████████████████████░░░░	17.90%
+Thursday    	120    commits	██████████████████████████████	20.65%
+Friday      	82     commits	████████████████████░░░░░░░░░░	14.11%
+Saturday    	66     commits	████████████████░░░░░░░░░░░░░░	11.36%
+Sunday      	47     commits	███████████░░░░░░░░░░░░░░░░░░░	8.09%
+```
+
+```
+🧪 JavaScript for the win!
+
+JavaScript  	18     repos	██████████████████████████████	46.15%
+CSS         	6      repos	█████████░░░░░░░░░░░░░░░░░░░░░	15.38%
+HTML        	6      repos	█████████░░░░░░░░░░░░░░░░░░░░░	15.38%
+Python      	4      repos	██████░░░░░░░░░░░░░░░░░░░░░░░░	10.26%
+Shell       	2      repos	███░░░░░░░░░░░░░░░░░░░░░░░░░░░	5.13%
+```
+
 <!-- README-STATS:END -->
 
 <p align="center">
