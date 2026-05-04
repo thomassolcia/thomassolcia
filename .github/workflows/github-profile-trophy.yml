@@ -25,7 +25,7 @@ jobs:
         env:
           PAT: ${{ secrets.PAT }}
         run: |
-          printf 'GITHUB_TOKEN=%s\n' "$PAT" > .env
+          printf 'GITHUB_TOKEN1=%s\nGITHUB_TOKEN2=%s\n' "$PAT" "$PAT" > .env
           deno run --allow-net --allow-env --allow-write --allow-read \
             render_svg.ts thomassolcia ../trophy/profile-trophy.svg radical
       - name: Commit & Push
