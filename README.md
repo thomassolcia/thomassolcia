@@ -85,8 +85,8 @@ Sou desenvolvedor apaixonado por **tecnologia**, **música**, **jogos** e **gato
 
 #### 📈 Atividade
 
-<!--START_SECTION:readme-stats-->
-<!--END_SECTION:readme-stats-->
+<!-- README-STATS:START -->
+<!-- README-STATS:END -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thomassolcia&label=Visitas&color=9146FF&style=flat" alt="profile views" />
