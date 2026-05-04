@@ -24,7 +24,7 @@
             height="114"
             stroke="#e1e4e8"
             fill="#141321"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -104,7 +104,7 @@
             height="114"
             stroke="#e1e4e8"
             fill="#141321"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -214,7 +214,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="114"
             stroke="#e1e4e8"
             fill="#141321"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -272,7 +272,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#fe428e">Commits</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#a9fef7">Hyper Committer</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#a9fef7">387pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#a9fef7">388pt</text>
           
     <style>
     @keyframes CommitsRankAnimation {
@@ -280,7 +280,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 49.86666666666666px;
+        width: 50.13333333333334px;
       }
     }
     #Commits-rank-progress{
@@ -324,7 +324,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="114"
             stroke="#e1e4e8"
             fill="#141321"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -434,7 +434,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="114"
             stroke="#e1e4e8"
             fill="#141321"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -544,7 +544,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="114"
             stroke="#e1e4e8"
             fill="#141321"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -624,7 +624,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="114"
             stroke="#e1e4e8"
             fill="#141321"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -704,7 +704,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="114"
             stroke="#e1e4e8"
             fill="#141321"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -784,7 +784,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="114"
             stroke="#e1e4e8"
             fill="#141321"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
