@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <em>Desenvolvedor · Streamer</em>
+  <em>Desenvolvedor Backend Java · Streamer</em>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 <h2 align="center">💻 &nbsp; Sobre mim</h2>
 
 <p align="center">
-  Desenvolvedor com foco em <b>web</b>, <b>automações</b>, <b>extensões</b> e <b>bots</b>.<br/>
+  Desenvolvedor backend <b>Java</b> com mais de 5 anos em sistemas de saúde suplementar: <b>faturamento</b>, <b>autorizações</b> e <b>integrações</b> entre operadoras.<br/>
   Vivendo na correria entre <b>código</b>, <b>música</b> e <b>jogos</b>, quando não estou programando, costumo estar ao vivo na Twitch.
 </p>
 
