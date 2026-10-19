@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <em>Desenvolvedor Backend Java · Streamer</em>
+  <em>Desenvolvedor · Streamer</em>
 </p>
 
 <p align="center">
@@ -32,7 +32,8 @@
 <h2 align="center">💻 &nbsp; Sobre mim</h2>
 
 <p align="center">
-  Desenvolvedor backend <b>Java</b> com mais de 5 anos em sistemas de saúde suplementar: <b>faturamento</b>, <b>autorizações</b> e <b>integrações</b> entre operadoras.<br/>
+  Desenvolvedor <b>backend</b> com mais de 5 anos em sistemas de saúde suplementar: <b>faturamento</b>, <b>autorizações</b> e <b>integrações</b> entre operadoras.<br/>
+  Criador do <b>Cinemance</b>, plataforma de filmes, séries e animes que desenvolvo e mantenho de ponta a ponta.<br/>
   Vivendo na correria entre <b>código</b>, <b>música</b> e <b>jogos</b>, quando não estou programando, costumo estar ao vivo na Twitch.
 </p>
 
