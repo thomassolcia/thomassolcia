@@ -47,25 +47,37 @@
 
 <p align="center"><i>Linguagens</i></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/Delphi-1a1a1a?style=for-the-badge&logo=delphi&logoColor=EE1F35" alt="Delphi" />
 </p>
 
-<p align="center"><i>Frameworks & bibliotecas</i></p>
+<p align="center"><i>Frameworks</i></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-1a1a1a?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Security-1a1a1a?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS" />
-  <img src="https://custom-icon-badges.demolab.com/badge/oracle-1a1a1a?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle PL/SQL" />
+  <img src="https://img.shields.io/badge/React%20Native-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
-<p align="center"><i>Ferramentas</i></p>
+<p align="center"><i>Bancos de dados e mensageria</i></p>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle%20PL%2FSQL-1a1a1a?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle PL/SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-1a1a1a?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-1a1a1a?style=for-the-badge&logo=apachekafka&logoColor=ffffff" alt="Apache Kafka" />
+</p>
+
+<p align="center"><i>Infraestrutura e CI/CD</i></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-1a1a1a?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-1a1a1a?style=for-the-badge&logo=aws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-1a1a1a?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Jenkins-1a1a1a?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
 </p>
